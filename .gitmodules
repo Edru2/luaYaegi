@@ -1,0 +1,9 @@
+[submodule "LuaJIT"]
+	path = LuaJIT
+	url = https://github.com/LuaJIT/LuaJIT.git
+[submodule "deps/LuaJIT"]
+	path = deps/LuaJIT
+	url = https://github.com/LuaJIT/LuaJIT.git
+[submodule "deps/yaegi"]
+	path = deps/yaegi
+	url = https://github.com/traefik/yaegi

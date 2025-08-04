@@ -72,7 +72,7 @@ Cross-compiling for Windows requires the mingw-w64 toolchain.
 
 ```bash
 sudo apt install build-essential x86_64-w64-mingw32-gcc clang
-git clone --recursive https://github.com/<you>/luaYaegi
+git clone --recursive https://github.com/Edru2/luaYaegi
 cd luaYaegi
 make linux
 cp luaYaegi.so /path/to/your/lua/modules/
